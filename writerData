@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Jane Doe",
+      "image": "https://i.ibb.co/4P9F99t/photo-contemplative-woman-with-afro-hairstyle-wears-round-spectacles-casual-warm-sweater.jpg",
+      "age": 35,
+      "numberOfBooks": 10,
+      "rating": 4.5
+    },
+    {
+      "name": "John Smith",
+      "image": "https://i.ibb.co/s9L3ys8/happy-man-with-long-thick-ginger-beard-has-friendly-smile.jpg",
+      "age": 42,
+      "numberOfBooks": 8,
+      "rating": 4.2
+    },
+    {
+      "name": "Alice Johnson",
+      "image": "ahttps://i.ibb.co/XVjpMzR/portrait-friendly-confident-caucasian-bearded-guy-with-moustache-wearing-glasses-smiling-politely-lo.jpg",
+      "age": 40,
+      "numberOfBooks": 12,
+      "rating": 4.8
+    },
+    {
+      "name": "Michael Brown",
+      "image": "https://i.ibb.co/yswpG8d/young-bearded-man-with-striped-shirt.jpg",
+      "age": 50,
+      "numberOfBooks": 15,
+      "rating": 4.6
+    }
+  ]
